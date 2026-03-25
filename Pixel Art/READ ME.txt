@@ -1,0 +1,1 @@
+Hi! thanks for looking at my project! I have all of the code files in the Pixel art folder, and an exe ready in x64/debug. Feel free to email me with any questions at: jsummers643@gmail.com
